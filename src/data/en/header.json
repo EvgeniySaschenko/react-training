@@ -1,0 +1,89 @@
+{
+	"header" : {
+		"logoSrc" : "./img/logo_header.png",
+		"nav" : [
+			{
+				"name" : "Home",
+				"active" : "active",
+				"href" : "#"
+			},		{
+				"name" : "Properties",
+				"active" : "",
+				"href" : "#"
+			},		{
+				"name" : "Agents",
+				"active" : "",
+				"href" : "#"
+			},		{
+				"name" : "Blog",
+				"active" : "",
+				"href" : "#"
+			},		{
+				"name" : "IDX",
+				"active" : "",
+				"href" : "#"
+			},		{
+				"name" : "Pages",
+				"active" : "",
+				"href" : "#"
+			},		{
+				"name" : "Features",
+				"active" : "",
+				"href" : "#"
+			},		{
+				"name" : "Submit Object",
+				"active" : "",
+				"href" : "#"
+			}
+		],
+		"contacts" : [
+			{
+				"title" : "Call Us:",
+				"name" : "435-234-9867",
+				"href" : "tel:4352349867",
+				"icon" : "fa fa-phone"
+			},		{
+				"title" : "Mail us:",
+				"name" : "info@luxurylife.com",
+				"href" : "mailto:info@luxurylife.com",
+				"icon" : "fa fa-mail"
+			},		{
+				"title" : "Visit us:",
+				"name" : "Beverly Hills, CA 90210",
+				"href" : "https://www.google.com.ua/maps/place/%D0%91%D0%B5%D0%B2%D0%B5%D1%80%D0%BB%D0%B8-%D0%A5%D0%B8%D0%BB%D0%BB%D0%B7,+%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F+90210,+%D0%A1%D0%A8%D0%90/@34.1002806,-118.449565,13z/data=!3m1!4b1!4m5!3m4!1s0x80c2bc35fbd217ef:0xcf1ef9352700d95c!8m2!3d34.1030032!4d-118.4104684",
+				"icon" : "fa fa-map-marker"
+			}
+		],
+		"schedule" : [
+			{
+				"name" : "Open House: Mon - Fri – 9:00 - 18:00",
+				"icon" : "fa fa-clock-o"
+			}
+		],
+		"lang" : [
+			{
+				"name" : "English",
+				"icon" : "flag-english",
+				"lang" : "en"
+			},		{
+				"name" : "Russian",
+				"icon" : "flag-russian",
+				"lang" : "ru"
+			}
+		],
+		"currency" : [
+			{
+				"name" : "USD"
+			},		{
+				"name" : "RUR"
+			},		{
+				"name" : "EUR"
+			}
+		],
+		"enterBtn" : { 
+			"name" : "Login / Register",
+			"href" : "#",
+			"icon" : "fa fa-user"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+-
+	var jsLibs= {
+		//- "react" : "https://cdnjs.cloudflare.com/ajax/libs/react/15.6.1/react.min.js",
+		//- "react-dom" : "https://cdnjs.cloudflare.com/ajax/libs/react-dom/15.6.1/react-dom.min.js",
+		//- "redux" : "https://cdnjs.cloudflare.com/ajax/libs/redux/3.7.2/redux.min.js",
+		//- "react-redux" : "https://cdnjs.cloudflare.com/ajax/libs/react-redux/5.0.6/react-redux.min.js",
+		//- "immutable" : "https://cdnjs.cloudflare.com/ajax/libs/immutable/3.8.1/immutable.min.js",
+		//- "uuid" : "https://cdnjs.cloudflare.com/ajax/libs/node-uuid/1.4.8/uuid.min.js"
+		}
+	var cssLibs= {}
+
+html
+	head
+		if( jsLibs )
+			each lib,libName in jsLibs
+				script(src=lib)
+				//.
+					#{libName}
+		if( cssLibs )
+			each lib,libName in cssLibs
+				link(rel='stylesheet', href=lib)
+				//.
+					#{libName}
+		
+		meta(charset="utf-8")
+		meta(name="viewport", content="width=device-width, initial-scale=1.0")
+	body
+		div#container

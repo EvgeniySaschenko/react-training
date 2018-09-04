@@ -1,0 +1,264 @@
+{
+	"home" : {	
+		"titleBig" : "House of Your Dream",
+		"titleSmall" : "We Will Help to Find It",
+
+		"partFormFind" : {
+			"propertyType" : {
+				"title" : "Property Type",
+				"list" : [
+					1, 2, 3
+				]
+			},
+			"location" : {
+				"title" : "Location",
+				"list" : [
+					1, 2, 3
+				]
+			},
+			"propertyStatus" : {
+				"title" : "Property Status",
+				"list" : [
+					1, 2, 3
+				]
+			},
+			"priceRange" : {
+				"title" : "Price Range",
+				"min" : 0,
+				"max" : 1000000
+			},
+			"beds" : {
+				"title" : "Beds",
+				"list" : [
+					1, 2, 3
+				]
+			},
+			"baths" : {
+				"title" : "Baths",
+				"list" : [
+					1, 2, 3
+				]
+			},
+			"area" : {
+				"title" : "Area",
+				"remark" : "(Sq Ft)",
+				"list" : [
+					1, 2, 3
+				]
+			},
+			"btnFind" : "find now"
+		},
+
+		"partLatestProperties" : {
+			"title" : "Latest Properties",
+			"sliderTitle" : "All Properties",
+			"slider" : [
+				{
+					"src" : "img/latest_properties/1.png",
+					"title" : "Retail Space In West Side",
+					"text" : "Phasellus vestibulum mauris leo, et ultricies sem ultrices nec. Nunc volpat tortor vitae...",
+					"href" : "#",
+					"price" : 999,
+					"berths" : 3,
+					"bathroom" : 2,
+					"area" : 190
+				},		{
+					"src" : "img/latest_properties/2.png",
+					"title" : "Family House In Hudson",
+					"text" : "Phasellus vestibulum mauris leo, et ultricies sem ultrices nec. Nunc volpat tortor vitae...",
+					"href" : "#",
+					"price" : 746,
+					"berths" : 3,
+					"bathroom" : 2,
+					"area" : 190
+				},		{
+					"src" : "img/latest_properties/3.png",
+					"title" : "Lake View In Manhattan",
+					"text" : "Phasellus vestibulum mauris leo, et ultricies sem ultrices nec. Nunc volpat tortor vitae...",
+					"href" : "#",
+					"price" : 234,
+					"berths" : 3,
+					"bathroom" : 2,
+					"area" : 190
+				},		{
+					"src" : "img/latest_properties/4.png",
+					"title" : "Open House South",
+					"text" : "Phasellus vestibulum mauris leo, et ultricies sem ultrices nec. Nunc volpat tortor vitae...",
+					"href" : "#",
+					"price" : 536,
+					"berths" : 3,
+					"bathroom" : 2,
+					"area" : 190
+				}
+			]
+		},
+
+		"partOurBestAgents" : {
+			"title" : "Our Best Agents",
+
+			"sliderTitle" : "All Agents",
+			"slider" : [
+				{
+					"src" : "img/our_best_agents/1.png",
+					"name" : "Djohn Kollings",
+					"level" : "5 properties",
+					"href" : "#",
+					"phone" : "+234-754-596",
+					"mail" : "info@example.com",
+					"site" : "infoexample.com"
+				},		{
+					"src" : "img/our_best_agents/2.png",
+					"name" : "Eline Dorther",
+					"level" : "3 properties",
+					"href" : "#",
+					"phone" : "+234-754-596",
+					"mail" : "info@example.com",
+					"site" : "infoexample.com"
+				},		{
+					"src" : "img/our_best_agents/3.png",
+					"name" : "Erik Braun",
+					"level" : "8 properties",
+					"href" : "#",
+					"phone" : "+234-754-596",
+					"mail" : "info@example.com",
+					"site" : "infoexample.com"
+				},		{
+					"src" : "img/our_best_agents/4.png",
+					"name" : "Djoanna Holl",
+					"level" : "5 properties",
+					"href" : "#",
+					"phone" : "+234-754-596",
+					"mail" : "info@example.com",
+					"site" : "infoexample.com"
+				}
+			],
+			"promoText" : "Nulla in rutrum massa. Integer urna sem, consequat at eros et, condimentum hendrerit lacus. Sed condimentum fringilla massa ac fringilla. Fusce dolor risus, varius sit amet dapibus eu, molestie sed ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse potenti.",
+			"btnMore" : "learn more"
+		},
+		"partOurFeatures" : {
+			"title" : "Our Features",
+			"text" : "Make your life easer with “UP Real Estate.",
+			"cover" : "img/our_features/cover.png",
+			"features" : [
+				{
+					"src" : "img/our_features/1.png"
+				},		{
+					"src" : "img/our_features/2.png",
+					"text_1" : "Hottest",
+					"text_2" : "Listings"
+				},		{
+					"src" : "img/our_features/3.png"
+				},		{
+					"src" : "img/our_features/4.png",
+					"text_1" : "Exclusive",
+					"text_2" : "Offers"
+				},		{
+					"src" : "img/our_features/5.png"
+				},		{
+					"src" : "img/our_features/6.png",
+					"text_1" : "Professional",
+					"text_2" : "Agents"
+				}
+			]
+		},
+
+		"partFeaturedListings" : {
+			"title" : "Featured Listings",
+			"sliderTitle" : "All Featured",
+			"slider" : [
+				{
+					"src" : "img/featured_listings/1.png",
+					"title" : "Retail Space In West Side",
+					"text" : "Phasellus vestibulum mauris leo, et ultricies sem ultrices nec. Nunc volpat tortor vitae...",
+					"href" : "#",
+					"price" : 999,
+					"berths" : 3,
+					"bathroom" : 2,
+					"area" : 190
+				},		{
+					"src" : "img/featured_listings/2.png",
+					"title" : "Family House In Hudson",
+					"text" : "Phasellus vestibulum mauris leo, et ultricies sem ultrices nec. Nunc volpat tortor vitae...",
+					"href" : "#",
+					"price" : 746,
+					"berths" : 3,
+					"bathroom" : 2,
+					"area" : 190
+				},		{
+					"src" : "img/featured_listings/3.png",
+					"title" : "Lake View In Manhattan",
+					"text" : "Phasellus vestibulum mauris leo, et ultricies sem ultrices nec. Nunc volpat tortor vitae...",
+					"href" : "#",
+					"price" : 234,
+					"berths" : 3,
+					"bathroom" : 2,
+					"area" : 190
+				},		{
+					"src" : "img/featured_listings/4.png",
+					"title" : "Open House South",
+					"text" : "Phasellus vestibulum mauris leo, et ultricies sem ultrices nec. Nunc volpat tortor vitae...",
+					"href" : "#",
+					"price" : 536,
+					"berths" : 3,
+					"bathroom" : 2,
+					"area" : 190
+				}
+			]
+		},
+
+		"partAboutUs" : {
+			"ourServices" : {
+				"title" : "Our Services",
+				"Services" : [
+					{
+						"name" : "Donec eget leo facilisis",
+						"text" : "Suspendisse rhoncus, libero ut eleifend aliquam, dui est consequat diam, vel tincidunt odio risus in tortor. Morbi accumsan leo et tincidunt facilisis. Donec aliquam, magna id blandit dapibus, risus justo venenatis felis, eget luctus nunc velit nec urna."
+					},		{
+						"name" : "Nunc venenatis neque vitae risus",
+						"text" : "Suspendisse rhoncus, libero ut eleifend aliquam, dui est consequat diam, vel tincidunt odio risus in tortor. Morbi accumsan leo et tincidunt facilisis. Donec aliquam, magna id blandit dapibus, risus justo venenatis felis, eget luctus nunc velit nec urna."
+					},		{
+						"name" : "Nam ut accumsan massa",
+						"text" : "Suspendisse rhoncus, libero ut eleifend aliquam, dui est consequat diam, vel tincidunt odio risus in tortor. Morbi accumsan leo et tincidunt facilisis. Donec aliquam, magna id blandit dapibus, risus justo venenatis felis, eget luctus nunc velit nec urna."
+					}
+				]
+			},
+			"peopleSayAboutUs" : {
+				"title" : "What People Say About Us",
+				"sayAbout" : [
+					{
+						"name" : "Hanry Ford",
+						"text" : "Nullam ac vestibulum nisl, in rutrum felis. Pellentesque quis facilisis nisl. Aliquam ut tincidunt sem. Sed at condimentum tellus, vitae elementum odio. Sed hendrerit varius lectus, venenatis blandit ligula pulvinar in."
+					},		{
+						"name" : "Eline Dorther",
+						"text" : "Nullam ac vestibulum nisl, in rutrum felis. Pellentesque quis facilisis nisl. Aliquam ut tincidunt sem. Sed at condimentum tellus, vitae elementum odio. Sed hendrerit varius lectus, venenatis blandit ligula pulvinar in. "
+					}
+				]
+			}
+		},
+
+		"partOurContacts" : {
+			"title" : "Our Contacts",
+			"text" : "Duis a massa vitae diam maximus dictum sit amet nec purus. Morbi a nunc et sapien iaculis tincidunt nec hendrerit sapien. <br> Cras convallis rhoncus mi eget rhoncus. In fringilla ligula mauris, sed volutpat tellus convallis vel.",
+			"linkMap" : "https://www.google.com.ua/maps/place/%D0%91%D0%B5%D0%B2%D0%B5%D1%80%D0%BB%D0%B8-%D0%A5%D0%B8%D0%BB%D0%BB%D0%B7,+%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F+90210,+%D0%A1%D0%A8%D0%90/@34.1002806,-118.449565,13z/data=!3m1!4b1!4m5!3m4!1s0x80c2bc35fbd217ef:0xcf1ef9352700d95c!8m2!3d34.1030032!4d-118.4104684",
+			"contacts" : [
+				{
+					"name" : "Beverly Hills, CA 90210",
+					"href" : "https://www.google.com.ua/maps/place/%D0%91%D0%B5%D0%B2%D0%B5%D1%80%D0%BB%D0%B8-%D0%A5%D0%B8%D0%BB%D0%BB%D0%B7,+%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F+90210,+%D0%A1%D0%A8%D0%90/@34.1002806,-118.449565,13z/data=!3m1!4b1!4m5!3m4!1s0x80c2bc35fbd217ef:0xcf1ef9352700d95c!8m2!3d34.1030032!4d-118.4104684",
+					"icon" : "fa fa-map-marker"
+				},		{
+					"name" : "Monday - Friday from 9:00 to 18:00",
+					"href" : "",
+					"icon" : "fa fa-clock-o"
+				},		{
+					"name" : "435-234-9867",
+					"href" : "tel:4352349867",
+					"icon" : "fa fa-phone"
+				},		{
+					"name" : "info@luxurylife.com",
+					"href" : "mailto:info@luxurylife.com",
+					"icon" : "fa fa-mail"
+				}
+			]
+		}
+	}
+}
